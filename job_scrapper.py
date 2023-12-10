@@ -112,7 +112,7 @@ def extract_job_details(url):
 
     return None
 
-# Example URL to scrape job data from
+
 example_url = 'https://jobs.bdjobs.com/jobsearch.asp?fcatId=8&icatId='
 
 # Get job information from the URL
